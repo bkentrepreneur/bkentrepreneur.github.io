@@ -154,7 +154,7 @@ a {
   width: 25%;
   height: 80px;
   padding-top: 15px;
-  margin-left:-10px;
+  margin-left:-6px;
   background-color: #47d74b;
   font-size: 16px;
   font-weight: 700;
@@ -559,7 +559,11 @@ html.w-mod-js *[data-ix="display-none"] {
   .where {
     margin-top: -33px;
   }
+  .showcase-header {
+  text-decoration: underline;
+  }
 }
+
 @media (max-width: 479px) {
   h1 {
     margin-bottom: -3px;
